@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/build
+.gdbinit
+kernel
+kernel.asm
+sstatus_printer.py
